@@ -300,7 +300,7 @@
   "dependencies": {
     "@vscode/l10n": "^0.0.18",
     "@wasm-audio-decoders/aac": "0.0.1",
-    "hls.js": "1.7.3",
+    "hls.js": "1.7.4",
     "ws": "8.22.0"
   },
   "devDependencies": {
